@@ -1,0 +1,9 @@
+name: SimonSays
+version: ${project.version}
+main: tech.sebazcrc.simonsays.Main
+api-version: 1.15
+authors: [SebazCRC]
+description: Simon Says
+commands:
+  simon:
+    aliases: [ss]
